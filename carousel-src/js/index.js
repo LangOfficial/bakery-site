@@ -1,6 +1,3 @@
-// import EmblaCarousel from '/carousel-src/embla-carousel'
-// import Autoplay from '/carousel-src/embla-carousel-autoplay'
-
 import EmblaCarousel from "embla-carousel";
 import Autoplay from "embla-carousel-autoplay";
 
